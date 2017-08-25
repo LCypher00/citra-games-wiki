@@ -1,5 +1,6 @@
 title = "Hyrule Warriors Legends"
 description = "Hyrule Warriors Legends is a Hack & Slash game with RPG elements set in the universe of The Legend of Zelda. It was developed by Omega Force the team behind Dynasty Warriors and Team Ninja responsible for Ninja gaiden."
+github_issues = [ 2198]
 needs_system_files = true
 needs_shared_font = false
 
